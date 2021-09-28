@@ -36,11 +36,11 @@
             <textarea name="ghi_chu" rows="3" cols="40"><?php if(isset($_POST['ghi_chu'])) echo $_POST['ghi_chu']; ?></textarea>
             <br>
             <input type="submit" value="Gửi"/>
-            
+            <input type="reset" value="huy" />
             
 		
         </form>
-        <a href="javascript:location.reload();">Hủy</a>
+        
 
     </body>
 </html>
