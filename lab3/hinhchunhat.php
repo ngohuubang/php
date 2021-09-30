@@ -12,7 +12,7 @@
 
         body {  
 
-            background-color: #d24dff;
+            background-color: #cbbbd1;
 
         }
 
